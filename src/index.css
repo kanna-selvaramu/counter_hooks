@@ -1,0 +1,21 @@
+body { 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.cls_bodyWrapper {
+    width: 100%;
+    margin-right: auto;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.cls_resetBtn {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    width: 50px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
